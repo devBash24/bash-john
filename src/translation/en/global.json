@@ -1,0 +1,46 @@
+{
+    "personal":{
+        "name":"Bash John",
+        "email":"devbash98@gmail.com",
+        "github":"https://github.com/devbash98",
+        "linkedin":"https://www.linkedin.com/in/bash-john-dev/",
+        "location":"Caribbean",
+        "experience":"2"
+    },
+    "hero":{
+        "title":"Bash John",
+        "greeting":"Welcome to my portfolio",
+        "role":"Full Stack Web Developer",
+        "subtitle":"Crafting digital experiences with modern web technologies. Turning ideas into elegant, functional solutions.",
+        "cta":"View Projects",
+        "cta2":"Contact Me"
+    },
+    "about":{
+        "title":"About Me",
+        "subtitle":"Who am I?",
+        "description":"I am a passionate and dedicated full-stack web developer from the Caribbean. I specialize in crafting intuitive, high-performing websites that not only look great but also drive results. Let's build something amazing together.",
+        "education":"Education",
+        "skills":"Skills"
+    },
+    "project":{
+        "title":"Projects"
+    },
+    "contact":{
+        "title":"Contact Me",
+        "subtitle": "Ready to bring your ideas to life? Whether you're looking for a reliable developer to enhance your online presence or need an innovative solution for your business, I'd love to hear from you.",
+        "email":"Email",
+        "message":"Message",
+        "submit":"Submit"
+    },
+    "footer":{
+        "copyright":"Copyright © 2023 Bash John. All rights reserved.",
+        "description":"Frontend Developer | Passionate about making life easier with technology.",
+        "navigation":{
+            "home":"Home",
+            "about":"About",
+            "projects":"Projects",
+            "contact":"Contact"
+        }
+    }
+
+}

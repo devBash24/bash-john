@@ -1,0 +1,19 @@
+{
+    "hero":{
+        "title":"Bash John CN",
+        "role":"Full Stack Web Developer",
+        "subtitle":"I am a full stack web developer with a passion for creating beautiful and functional websites.",
+        "cta":"View Projects",
+        "cta2":"Contact Me"
+    },
+    "about":{
+        "title":"About Me",
+        "subtitle":"I am a full stack web developer with a passion for creating beautiful and functional websites.",
+        "about":"I am a full stack web developer with a passion for creating beautiful and functional websites."
+    },
+    "project":{
+        "title":"Projects"
+    }
+
+
+}
